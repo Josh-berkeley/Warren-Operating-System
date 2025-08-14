@@ -74,7 +74,7 @@ export default function Features() {
                 </div>
                 <div className="flex items-center">
                   <div className="w-6 h-6 bg-green-500 rounded-full mr-3 flex items-center justify-center text-xs">2</div>
-                  <div className="text-gray-300 text-sm">Alumni network: Both Stanford GSB '18</div>
+                  <div className="text-gray-300 text-sm">Alumni network: Both Stanford GSB &apos;18</div>
                 </div>
                 <div className="flex items-center">
                   <div className="w-6 h-6 bg-purple-500 rounded-full mr-3 flex items-center justify-center text-xs">3</div>
@@ -83,7 +83,7 @@ export default function Features() {
               </div>
               <div className="mt-4 p-3 bg-purple-900/30 border border-purple-500/30 rounded">
                 <div className="text-purple-400 text-sm font-medium mb-1">🎯 Micro-Moment Alert</div>
-                <div className="text-gray-300 text-xs">Sarah posted 3x about "exit readiness" in 10 days → Potential sell-side target</div>
+                <div className="text-gray-300 text-xs">Sarah posted 3x about &quot;exit readiness&quot; in 10 days → Potential sell-side target</div>
               </div>
             </div>
           </div>

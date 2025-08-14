@@ -29,7 +29,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          Warren organizes the world's private market information into a reasoning infrastructure for financial discovery, diligence, competitive intelligence and decision‑making
+          Warren organizes the world&apos;s private market information into a reasoning infrastructure for financial discovery, diligence, competitive intelligence and decision‑making
         </motion.p>
 
         <motion.div
