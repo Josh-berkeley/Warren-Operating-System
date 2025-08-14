@@ -61,7 +61,7 @@ export default function BetaSignup() {
             <div className="text-center mb-8">
               <h1 className="text-3xl font-bold text-white mb-4">Join Waitlist</h1>
               <p className="text-gray-300">
-                Help us build the future of AI-powered professional networking
+                Get early access to Warren - the AI-native operating system for private markets
               </p>
             </div>
 
