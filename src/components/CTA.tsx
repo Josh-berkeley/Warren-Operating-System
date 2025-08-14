@@ -40,7 +40,7 @@ export default function CTA() {
           transition={{ duration: 0.8, delay: 0.4 }}
           viewport={{ once: true }}
         >
-          <a href="mailto:contact@warren.ai" className="bg-gradient-to-r from-red-500 to-orange-500 text-white text-xl px-12 py-5 rounded-full hover:from-red-600 hover:to-orange-600 transition-all transform hover:scale-105 shadow-2xl inline-block">
+          <a href="mailto:josh_singh@berkeley.edu,shivam.dixit@berkeley.edu" className="bg-gradient-to-r from-red-500 to-orange-500 text-white text-xl px-12 py-5 rounded-full hover:from-red-600 hover:to-orange-600 transition-all transform hover:scale-105 shadow-2xl inline-block">
             Contact Us
           </a>
         </motion.div>

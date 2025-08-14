@@ -38,7 +38,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
         >
-          <a href="mailto:contact@warren.ai" className="bg-gradient-to-r from-red-500 to-orange-500 text-white text-lg px-10 py-4 rounded-full hover:from-red-600 hover:to-orange-600 transition-all transform hover:scale-105 inline-block">
+          <a href="mailto:josh_singh@berkeley.edu,shivam.dixit@berkeley.edu" className="bg-gradient-to-r from-red-500 to-orange-500 text-white text-lg px-10 py-4 rounded-full hover:from-red-600 hover:to-orange-600 transition-all transform hover:scale-105 inline-block">
             Get in Touch
           </a>
         </motion.div>
